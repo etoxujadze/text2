@@ -1,0 +1,17 @@
+.name {
+    text-align:center;
+    height: 160px;
+    width: 350PX;
+    color: #777777;
+    margin-left: 3px;
+}
+h3 {
+    text-align: center;
+    color: #001AFF;
+}
+.make {
+    text-align: justify;
+    color: #FF0000;
+    margin-left: 72px;
+    
+}
